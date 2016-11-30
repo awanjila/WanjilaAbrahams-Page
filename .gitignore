@@ -1,2 +1,2 @@
-/venv
-/myPage/db.sqlite3
+venv
+db.sqlite3

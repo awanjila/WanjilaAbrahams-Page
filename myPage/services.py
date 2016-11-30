@@ -33,7 +33,7 @@ class Api(object):
 	def displayQuotes(self):
 		pass
 
-print Api().quotes()
+print Api().youtube()
 
 
 #https://www.googleapis.com/youtube/v3/activities?part=snippet,contentDetails&channelId=UCmwVv2nqokqZzzyyFe8hEuA&key=AIzaSyAYVBZd-ZJxVkYp2YvELtNfRY4BK-s6Vdw&maxResults=50
